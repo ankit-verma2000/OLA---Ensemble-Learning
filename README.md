@@ -1,5 +1,6 @@
 # **OLA - Ensemble Learning Business Case**
 ❖ Topic: Ensemble Learning in Driver Attrition Prediction
+___________________________________________________________________________
 ## **📚 About Data?**
 
 > **From the company’s perspective:**
@@ -42,3 +43,21 @@ Quarterly Rating | Rating assigned to drivers on a quarterly basis. Ratings rang
 ___________________________________________________________________________
 ##  🎯 Objective
 We are entrusted with the responsibility of analyzing the dataset to predict driver attrition. Your primary goal is to utilize ensemble learning techniques, evaluate the performance of your models, and provide actionable insights to reduce driver churn.
+___________________________________________________________________________
+## Completed the task:
+
+1. Define the Problem Statement and perform Exploratory Data Analysis.
+2. Data Preprocessing: 
+  * KNN Imputation
+  * Feature Engineering
+  * Class Imbalance treatment
+  * Standardization
+  * Encoding
+3. Model building 
+  * 1 Ensemble - Bagging Algorithm
+  * 1 Ensemble - Boosting Algorithm
+4. Results Evaluation 
+  * ROC AUC Curve & comments
+  * Classification Report (Confusion Matrix etc)
+5. Actionable Insights & Recommendations.
+___________________________________________________________________________
